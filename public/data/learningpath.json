@@ -1,0 +1,22 @@
+[
+    {
+      "id": 1,
+      "img": "../../src/assets/images/learning1.png",
+      "title": "Android Developer"
+    },
+    {
+      "id": 2,
+      "img": "../../src/assets/images/learning2.png",
+      "title": "Graphic Design"
+    },
+    {
+      "id": 3,
+      "img": "../../src/assets/images/learning3.png",
+      "title": "Frontend Developer"
+    },
+    {
+      "id": 4,
+      "img": "../../src/assets/images/learning4.png",
+      "title": "Machine Learning"
+    }
+  ]

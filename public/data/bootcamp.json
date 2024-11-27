@@ -1,0 +1,58 @@
+[
+    {
+      "id": 1,
+      "img": "../../src/assets/images/Card 1.png",
+      "title": "Full-stack Web Developer",
+      "batch": "BATCH 4",
+      "date": "Februari 2025"
+    },
+    {
+      "id": 2,
+      "img": "../../src/assets/images/Card 2.png",
+      "title": "UI/UX Design",
+      "batch": "BATCH 2",
+      "date": "Januari 2025"
+    },
+    {
+      "id": 3,
+      "img": "../../src/assets/images/Card 3.png",
+      "title": "Human Resources",
+      "batch": "BATCH 1",
+      "date": "Desember 2024"
+    },
+    {
+      "id": 4,
+      "img": "../../src/assets/images/Card 4.png",
+      "title": "Digital Marketer",
+      "batch": "BATCH 3",
+      "date": "Januari 2025"
+    },
+    {
+      "id": 5,
+      "img": "../../src/assets/images/Card 5.png",
+      "title": "React Developer",
+      "batch": "BATCH 3",
+      "date": "Maret 2025"
+    },
+    {
+      "id": 6,
+      "img": "../../src/assets/images/Card 6.png",
+      "title": "Visual Design",
+      "batch": "BATCH 5",
+      "date": "Maret 2025"
+    },
+    {
+      "id": 7,
+      "img": "../../src/assets/images/Card 7.png",
+      "title": "Project Manager",
+      "batch": "BATCH 6",
+      "date": "Januari 2025"
+    },
+    {
+      "id": 8,
+      "img": "../../src/assets/images/Card 8.png",
+      "title": "Data Scientist",
+      "batch": "BATCH 2",
+      "date": "Februari 2025"
+    }
+  ]
