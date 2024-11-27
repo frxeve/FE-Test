@@ -171,7 +171,7 @@ const HomePage = () => {
         </div>
       </div>
 
-      {/* Section 3 masi setting slick */}
+      {/* Section 3 */}
       <div className="bootcamp bg-white mt-20 py-20">
         <h1 className="text-center text-[32px] font-medium gap-1">Bootcamp</h1>
         <p className="text-center text-black text-regular text-[24px] mx-[72px] mb-10">
